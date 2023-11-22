@@ -1,0 +1,15 @@
+<!--Exemplificando o método de concatenação-->
+
+´´´js
+  let String01 = "Dragon Ball";
+  let String02 = "One Piece";
+  let String03 = "Avatar";
+  let String04 = "Overlord";
+
+console.log = "Os melhores animes são, pela ordem: " + String04 + "sem sombra de dúvidas, logo após, "
+  + String03 + "seguidos por, " + String 01 + "e' String 02;
+
+
+
+
+´´´
